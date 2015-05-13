@@ -5,7 +5,8 @@
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT ----- 
  *---------------------------------------------------------------
- *ISTIQOMAH  K3513026 PTIK UNS 2013 
+ *ISTIQOMAH  K3513026
+ 
  * You can load different configurations depending on your
  * current environment. Setting the environment also influences
  * things like logging and error reporting.
